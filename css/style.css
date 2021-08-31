@@ -1,0 +1,31 @@
+
+boday {
+    
+    background-image: url(background.jpg);
+     background-size: 100%;
+
+}
+
+
+
+
+
+header img {
+    height: 80px;
+    margin-left: 40px;
+}
+
+
+header {
+    background-color: rgba(37, 37, 37, 0.329);
+    height: 80px;
+    width: 100%; }
+
+header  {
+    display: inline;
+}
+
+
+table, th, td {
+    border: 1px solid gray;
+}
