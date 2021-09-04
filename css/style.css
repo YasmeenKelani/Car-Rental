@@ -5,16 +5,6 @@ header img {
 }
 
 
-header {
-    background-color: rgba(37, 37, 37, 0.329);
-    height: 80px;
-    width: 100%; }
-
-header  {
-    display: inline;
-}
-
-
 table, th, td {
     border: 1px solid gray;
 }

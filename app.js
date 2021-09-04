@@ -2,15 +2,15 @@
 
 let container = document.getElementById('container')
 let tabelEl = document.createElement('table')
-
 let cars = [];
+let image = ['bmw', 'kia', 'ford'];
 
 container.appendChild(tabelEl);
 
 function car (customerName, carModel, image){
     this.customerName = customerName;
     this.carModel = carModel;
-    this.image = image;
+    this.image = `image/${image}`;
     this.carPrice = 0;
     cars.push(this)
 }
