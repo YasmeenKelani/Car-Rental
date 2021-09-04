@@ -49,6 +49,7 @@ tdEl4.appendChild(image)
 trEl.appendChild(tdEl4)
 
 }
+
 saveToLocalStorage();
 
 function createTableHeader (){
